@@ -14,5 +14,3 @@ O jogo conta com movimentação fluida e mecânicas básicas implementadas do ze
 ## 🚀 Como jogar
 1. Instale o **LÖVE2D** (disponível para Windows, Linux e macOS).  
 2. Baixe ou clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
